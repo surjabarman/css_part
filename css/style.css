@@ -1,0 +1,42 @@
+/*class-center, head & head1, id-head*/
+body{
+	background-color:purple;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+div{
+	border: 2px solid blue;
+	background-color: darkolivegreen;
+    margin-left: auto;
+    margin-right: auto;
+	width: 90%;
+}
+
+h1{
+	color: darkgreen;
+	text-align: center;
+
+}
+
+.head{
+	color: darkgreen;
+	text-align: center;
+}
+.head1{
+	color: midnightblue;
+	text-align: center;
+}
+#head{
+	color: yellow;
+	text-align: center;
+}
+
+p{
+	color: black;
+}
